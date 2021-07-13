@@ -2,7 +2,7 @@
 
 import numpy as np
 import pandas as pd
-from teamName import getMyPosition as getPosition
+from BUY_HIGH_SELL_LOW import getMyPosition as getPosition
 
 # Algorithm testing file. 
 # Quantitative judging will be determined from output of this program.
